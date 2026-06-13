@@ -86,12 +86,5 @@ Developed an intelligent clinical recommendation platform using LangGraph, LangS
 
 ---
 
-## 📊 GitHub Stats
-
-![Mehwish's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR-GITHUB-USERNAME\&layout=compact)
-
----
 
 > Building AI systems that connect research, healthcare, and real-world impact.
